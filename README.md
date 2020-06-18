@@ -1,6 +1,6 @@
 # Crazy Taxi 
 
-A modified Crazy Taxi game implemented with Verilog on the DE1-Soc Board. 
+A modified Crazy Taxi game implemented with Verilog on the DE1-Soc Board. This project was collaborated with Angus Wang. Check out his Github profile [here!](https://github.com/angusYuhao)
 
 ## Rules 
 
@@ -22,3 +22,4 @@ The game ends in victory if the player survives 30 rounds of incoming obstacles.
 
 Quartus Prime will program the DE1-Soc board and display the game on the
 VGA display.
+
